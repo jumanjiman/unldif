@@ -54,3 +54,7 @@ single line.
 
 
 %changelog
+* Fri Oct 01 2010 Paul Morgan <jumanjiman@gmail.com> 1.0-0
+- new package built with tito
+- add manpage
+
