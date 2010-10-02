@@ -3,7 +3,7 @@ summary: Unfold LDIF (LDAP Data Interchange Format) lines
 group: Applications/Internet
 
 version: 1.0
-release: 0
+release: 1
 
 url: http://vgoenka.tripod.com/unixscripts/unldif.sed.txt
 license: Attribution (see COPYING)
@@ -54,6 +54,9 @@ single line.
 
 
 %changelog
+* Fri Oct 01 2010 Paul Morgan <jumanjiman@gmail.com> 1.0-1
+- maintain version consistency with upstream (jumanjiman@gmail.com)
+
 * Fri Oct 01 2010 Paul Morgan <jumanjiman@gmail.com> 1.0-0
 - new package built with tito
 - add manpage
