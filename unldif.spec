@@ -3,7 +3,7 @@ summary: Unfold LDIF (LDAP Data Interchange Format) lines
 group: Applications/Internet
 
 version: 1.0
-release: 2%{?dist}
+release: 5%{?dist}
 
 url: http://vgoenka.tripod.com/unixscripts/unldif.sed.txt
 license: Attribution (see COPYING)
