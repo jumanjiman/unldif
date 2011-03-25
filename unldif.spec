@@ -54,6 +54,9 @@ single line.
 
 
 %changelog
+* Fri Mar 25 2011 Paul Morgan <jumanjiman@gmail.com> 1.0-5
+- add README.asciidoc to source tree
+
 * Fri Oct 01 2010 Paul Morgan <jumanjiman@gmail.com> 1.0-2
 - add dist tag to spec (jumanjiman@gmail.com)
 
